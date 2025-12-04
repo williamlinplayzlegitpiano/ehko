@@ -1,4 +1,4 @@
-# EHKO — Real-time Stock Sentiment MVP (v2)
+# EHKO — Real-time Stock Sentiment MVP
 
 Python + FastAPI backend that:
 
